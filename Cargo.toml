@@ -1,0 +1,6 @@
+[package]
+name = "aorust"
+version = "0.1.0"
+authors = ["artwebs <artwebs@126.com>"]
+
+[dependencies]
